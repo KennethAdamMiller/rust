@@ -157,6 +157,7 @@ supported_targets! {
     ("mipsel-unknown-linux-musl", mipsel_unknown_linux_musl),
     ("mips-unknown-linux-uclibc", mips_unknown_linux_uclibc),
     ("mipsel-unknown-linux-uclibc", mipsel_unknown_linux_uclibc),
+    ("x86_64-unknown-linux-uclibc", x86_64_unknown_linux_uclibc),
 
     ("sparc64-unknown-linux-gnu", sparc64_unknown_linux_gnu),
 
